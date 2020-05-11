@@ -26,7 +26,16 @@
    - Review Account
    - Download User Credentials
 5. [Administrator Access Policy](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-AWS-IAM/blob/master/subchapter1/5.Administrator%20Access%20Policy.md) 
+6. [Manage Password Policy](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-AWS-IAM/blob/master/subchapter1/6.Manage%20Password%20Policy.md) 
+   - Minimum Password Length Rule
+   - Uppercase & Lowercase Letter Rule
+   - Number Character Rule
+   - Non-alphanumeric Character Rule
+   - Password Expiration Rule
+   - Change Password Rule
+   - Password Re-use Rule
+7. [User Summary](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-AWS-IAM/blob/master/subchapter1/5.Administrator%20Access%20Policy.md) 
 
 
 ## Todo
-- [ ] Add Manage Password Policy
+- [ ] Not yet
