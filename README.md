@@ -34,7 +34,18 @@
    - Password Expiration Rule
    - Change Password Rule
    - Password Re-use Rule
-7. [User Summary](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-AWS-IAM/blob/master/subchapter1/5.Administrator%20Access%20Policy.md) 
+7. [User Summary](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-AWS-IAM/blob/master/subchapter1/7.User%20Summary.md) 
+   - User Permissions
+   - User Groups
+   - Multiple Group
+   - Remove User from Group
+   - Security Credentials
+   - Manage Console Password
+   - Manage MFA Device
+   - Create New Access Key
+   - Active & Inactive Access Key
+   - Delete Access Key
+   - Delete User
 
 
 ## Todo
