@@ -3,6 +3,8 @@
 ### Published in 2020
 ### Learn AWS IAM on Youtube : [Belajar AWS IAM Bahasa Indonesia](https://www.youtube.com/watch?v=WhO6kJfYeMU)
 
+<img src="CoverBook Identity Access Management.png">
+
 ## Open Library Indonesia
 
 ### Table of Contents
@@ -47,6 +49,10 @@
    - Delete Access Key
    - Delete User
 
-
 ## Todo
 - [ ] Not yet
+
+## Contributor
+#### Christa Agung Winarno (Book Designer)
+#### Pintercoding Indonesia
+#### Marketkoin Indonesia
