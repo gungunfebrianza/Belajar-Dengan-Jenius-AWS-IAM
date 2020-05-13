@@ -95,6 +95,8 @@
 12. Delete Group
     - Check Deleted Group
 
+## [Tentang Penulis](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-AWS-IAM/blob/master/Tentang%20Penulis.md)
+
 ## Todo
 - [ ] All Example in Go Language
 - [ ] Example for Programming Roles
