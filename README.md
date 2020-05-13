@@ -3,7 +3,7 @@
 ### Published in 2020
 ### Learn AWS IAM on Youtube : [Belajar AWS IAM Bahasa Indonesia](https://www.youtube.com/watch?v=WhO6kJfYeMU)
 
-<img src="CoverBook Identity Access Management.png">
+<img src="CoverBook Identity Access Management.png" width=85%>
 
 ## Open Library Indonesia
 
@@ -95,7 +95,7 @@
 12. Delete Group
     - Check Deleted Group
 
-## [Tentang Penulis](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-AWS-IAM/blob/master/Tentang%20Penulis.md)
+#### [Tentang Penulis](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-AWS-IAM/blob/master/Tentang%20Penulis.md)
 
 ## Todo
 - [ ] All Example in Go Language
